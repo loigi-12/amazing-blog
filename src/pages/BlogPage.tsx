@@ -1,4 +1,3 @@
-import React from "react";
 import { blogs } from "../data/blogs";
 import BlogCard from "../components/BlogCard";
 import AmazonLinkCard from "../components/AmazonLinkCard";
