@@ -3,20 +3,20 @@ import { Blog } from "../types";
 export const blogs: Blog[] = [
   {
     id: 1,
-    title: "Top 10 React Tips for Developers",
-    excerpt: "Boost your React skills with these top 10 tips...",
-    amazonLink: "https://amzn.to/4iOks2g",
+    title: "Top 10 Smart Home Gadgets of 2025",
+    excerpt: "Upgrade your lifestyle with these must-have smart devices...",
+    amazonLink: "https://www.amazon.com/example1",
   },
   {
     id: 2,
-    title: "Mastering TypeScript in 2025",
-    excerpt: "A practical guide to mastering TypeScript...",
-    amazonLink: "https://amzn.to/4iOks2g",
+    title: "The Ultimate Kitchen Tech Guide",
+    excerpt: "Discover the latest innovations transforming modern kitchens...",
+    amazonLink: "https://www.amazon.com/example2",
   },
   {
     id: 3,
-    title: "Tailwind CSS: Utility-First Magic",
-    excerpt: "Why Tailwind CSS is revolutionizing UI design...",
-    amazonLink: "https://amzn.to/4iOks2g",
+    title: "Making Your Home Smarter: A Beginner's Guide",
+    excerpt: "Simple steps to automate and enhance your living space...",
+    amazonLink: "https://www.amazon.com/example3",
   },
 ];
