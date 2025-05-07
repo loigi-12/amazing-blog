@@ -11,7 +11,7 @@ export default function AmazonLinkCard({ blog }: Props) {
       href={blog.amazonLink}
       target="_blank"
       rel="noopener noreferrer"
-      className="block bg-white border p-4 rounded-lg shadow hover:bg-gray-100 text-blue-600"
+      className="block bg-white border rounded-lg hover:bg-gray-100 text-blue-600"
     >
       {blog.title}
     </a>
