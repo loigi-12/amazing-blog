@@ -3,10 +3,12 @@ import BlogPage from "./pages/BlogPage";
 import Navbar from "./components/Navbar";
 
 function App() {
-  <>
-    <Navbar />
-    <BlogPage />
-  </>;
+  return (
+    <>
+      <Navbar />
+      <BlogPage />
+    </>
+  );
 }
 
 export default App;
