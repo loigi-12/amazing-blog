@@ -1,8 +1,12 @@
 import React from "react";
 import BlogPage from "./pages/BlogPage";
+import Navbar from "./components/Navbar";
 
 function App() {
-  return <BlogPage />;
+  <>
+    <Navbar />
+    <BlogPage />
+  </>;
 }
 
 export default App;
