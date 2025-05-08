@@ -1,6 +1,7 @@
 import { blogs } from "../data/blogs";
+import { products } from "../data/products";
 import BlogCard from "../components/BlogCard";
-import AmazonLinkCard from "../components/AmazonLinkCard";
+import Products from "../components/Products";
 
 const BlogPage = () => {
   return (
@@ -17,9 +18,15 @@ const BlogPage = () => {
 
         <aside className="col-md-4">
           <h4 className="fw-bold mb-3">Recommended on Amazon</h4>
-          {blogs.map((blog, index) => (
+          <p>
+            <small>
+              <em>As an Amazon Associate, I earn from qualifying purchases.</em>
+            </small>
+          </p>
+
+          {products.map((product, index) => (
             <div className="mb-3">
-              {index + 1}. <AmazonLinkCard key={blog.id} blog={blog} />{" "}
+              {index + 1}. <Products key={product.id} product={product} />{" "}
             </div>
           ))}
         </aside>
