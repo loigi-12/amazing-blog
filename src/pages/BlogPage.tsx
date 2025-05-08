@@ -18,7 +18,7 @@ const BlogPage = () => {
         <aside className="col-md-4">
           <h4 className="fw-bold mb-3">Recommended on Amazon</h4>
           {blogs.map((blog, index) => (
-            <div>
+            <div className="mb-3">
               {index + 1}. <AmazonLinkCard key={blog.id} blog={blog} />{" "}
             </div>
           ))}
