@@ -71,4 +71,9 @@ export const products: Product[] = [
     title: "Ultra Soft 6 Pack Cotton Towel Set",
     url: "https://amzn.to/3GZPy9O",
   },
+  {
+    id: 15,
+    title: "Metal Clothes Hangers",
+    url: "https://amzn.to/3Zb1lZ4",
+  },
 ];
