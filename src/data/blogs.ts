@@ -89,4 +89,70 @@ export const blogs: Blog[] = [
         "Traveling doesn’t have to be a hassle. The Suitcase Trolley Suitcase offers smooth maneuverability, ample storage space, and a sleek exterior perfect for modern explorers. Whether for a weekend getaway or a business trip, this suitcase makes packing and transporting a breeze.",
     },
   },
+  {
+    id: 9,
+    title: "Shoe Rack",
+    excerpt: "Keep your entryway or closet neat and organized with this clever storage solution...",
+    amazonLink: "https://amzn.to/4d5rKNK",
+    blog: {
+      title: "Maximize Space with a Sleek Shoe Rack",
+      content:
+        "Say goodbye to cluttered floors and misplaced shoes. This Shoe Rack is designed to organize and showcase your footwear collection with ease. Ideal for small spaces or busy households, it brings style and function together seamlessly.",
+    },
+  },
+  {
+    id: 10,
+    title: "AI Language Translator Earbud",
+    excerpt: "Break language barriers instantly with cutting-edge wearable tech...",
+    amazonLink: "https://amzn.to/451Rokw",
+    blog: {
+      title: "Speak Any Language with the AI Language Translator Earbud",
+      content:
+        "Communicating across cultures has never been easier. The AI Language Translator Earbud provides real-time translation in multiple languages, making travel, business, and social interactions smoother and more inclusive. A must-have gadget for global citizens.",
+    },
+  },
+  {
+    id: 11,
+    title: "Curtain clips with hooks",
+    excerpt: "Make hanging curtains effortless and stylish with these durable hooks...",
+    amazonLink: "https://amzn.to/4iX9qbc",
+    blog: {
+      title: "Upgrade Your Window Game with Curtain Clips with Hooks",
+      content:
+        "Simplify curtain installation and add a touch of elegance to any room. These Curtain Clips with Hooks are strong, easy to use, and versatile enough to complement any décor. A practical and aesthetic home upgrade.",
+    },
+  },
+  {
+    id: 12,
+    title: "Cat Bed for Desk",
+    excerpt: "Keep your feline friend close and cozy while you work or study...",
+    amazonLink: "https://amzn.to/3Sr3yMm",
+    blog: {
+      title: "Desk Companion: The Cat Bed Your Kitty Will Love",
+      content:
+        "Working from home? Give your cat a comfy spot right next to you with this Cat Bed for Desk. It's the perfect perch for curious kitties and offers plush comfort without sacrificing workspace. A win-win for you and your pet.",
+    },
+  },
+  {
+    id: 13,
+    title: "Protective Cover Table",
+    excerpt: "Shield your furniture from wear and weather with durable protection...",
+    amazonLink: "https://amzn.to/4ka168N",
+    blog: {
+      title: "Preserve Your Furniture with a Protective Table Cover",
+      content:
+        "Whether it’s for outdoor use or everyday wear, this Protective Cover Table keeps your surfaces safe from spills, dust, and weather damage. Designed to fit snugly and look sleek, it’s the practical choice for longevity and style.",
+    },
+  },
+  {
+    id: 14,
+    title: "Ultra Soft 6 Pack Cotton Towel Set",
+    excerpt: "Elevate your bath routine with towels that feel like a spa experience...",
+    amazonLink: "https://amzn.to/3GZPy9O",
+    blog: {
+      title: "Wrap Yourself in Luxury with Ultra Soft Cotton Towels",
+      content:
+        "Experience the softness you deserve with the Ultra Soft 6 Pack Cotton Towel Set. These absorbent, plush towels turn any bathroom into a relaxing retreat. Perfect for daily use or pampering guests, they combine quality and comfort beautifully.",
+    },
+  },
 ];

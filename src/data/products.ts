@@ -41,4 +41,34 @@ export const products: Product[] = [
     title: "Suitcase Trolley Suitcase",
     url: "https://amzn.to/4d7NKYg",
   },
+  {
+    id: 9,
+    title: "Shoe Rack",
+    url: "https://amzn.to/4d5rKNK",
+  },
+  {
+    id: 10,
+    title: "AI Language Translator Earbud",
+    url: "https://amzn.to/451Rokw",
+  },
+  {
+    id: 11,
+    title: "Curtain clips with hooks",
+    url: "https://amzn.to/4iX9qbc",
+  },
+  {
+    id: 12,
+    title: "Cat Bed for Desk",
+    url: "https://amzn.to/3Sr3yMm",
+  },
+  {
+    id: 13,
+    title: "Protective Cover Table",
+    url: "https://amzn.to/4ka168N",
+  },
+  {
+    id: 14,
+    title: "Ultra Soft 6 Pack Cotton Towel Set",
+    url: "https://amzn.to/3GZPy9O",
+  },
 ];
