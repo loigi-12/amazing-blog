@@ -76,4 +76,34 @@ export const products: Product[] = [
     title: "Metal Clothes Hangers",
     url: "https://amzn.to/3Zb1lZ4",
   },
+  {
+    id: 16,
+    title: "Multi-Purpose Straining Cloth",
+    url: "https://amzn.to/4jRGZfO",
+  },
+  {
+    id: 17,
+    title: "Wooden card holders",
+    url: "https://amzn.to/4iYb8c4",
+  },
+  {
+    id: 18,
+    title: "Water Container Hydration Bladder Large Storage",
+    url: "https://amzn.to/3SxpJ3u",
+  },
+  {
+    id: 19,
+    title: "Electric Heating Pad",
+    url: "https://amzn.to/4ddVKY3",
+  },
+  {
+    id: 20,
+    title: "Rotatable Garden Sprinkler",
+    url: "https://amzn.to/3S0I4WE",
+  },
+  {
+    id: 21,
+    title: "SHARLOVY XL Chew Toy for Aggressive Chewers",
+    url: "https://amzn.to/3YJDvDQ",
+  },
 ];

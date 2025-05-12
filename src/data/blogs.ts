@@ -166,4 +166,71 @@ export const blogs: Blog[] = [
         "Ditch flimsy plastic hangers and upgrade to Metal Clothes Hangers for a sturdier, more elegant solution. These hangers maintain the shape of your garments, save space, and bring a touch of sophistication to any closet.",
     },
   },
+  {
+    id: 16,
+    title: "Multi-Purpose Straining Cloth",
+    excerpt:
+      "A kitchen essential for straining, filtering, and food prep with ease and precision...",
+    amazonLink: "https://amzn.to/4jRGZfO",
+    blog: {
+      title: "Versatile Kitchen Aid: Multi-Purpose Straining Cloth",
+      content:
+        "Elevate your cooking with the Multi-Purpose Straining Cloth. Whether you're filtering broth, straining yogurt, or wrapping herbs, this cloth is a reusable, eco-friendly alternative to disposable options, offering fine filtration and durability.",
+    },
+  },
+  {
+    id: 17,
+    title: "Wooden Card Holders",
+    excerpt: "Add a rustic and organized touch to your desk or tabletop games...",
+    amazonLink: "https://amzn.to/4iYb8c4",
+    blog: {
+      title: "Organize in Style with Wooden Card Holders",
+      content:
+        "Wooden Card Holders blend utility with charm, perfect for holding business cards or game cards during play. The solid wood construction ensures stability, while the sleek design adds warmth and elegance to any setup.",
+    },
+  },
+  {
+    id: 18,
+    title: "Water Container Hydration Bladder Large Storage",
+    excerpt: "Stay hydrated on long treks with a high-capacity, leak-proof hydration bladder...",
+    amazonLink: "https://amzn.to/3SxpJ3u",
+    blog: {
+      title: "Adventure Ready: Hydration Bladder with Large Capacity",
+      content:
+        "Ideal for hiking, cycling, or any outdoor adventure, this Water Container Hydration Bladder provides a large storage capacity with an easy-to-use spout. Built with durable, BPA-free materials, it fits snugly into most backpacks and keeps water cool on the go.",
+    },
+  },
+  {
+    id: 19,
+    title: "Electric Heating Pad",
+    excerpt: "Ease muscle tension and stay cozy with this versatile heating pad...",
+    amazonLink: "https://amzn.to/4ddVKY3",
+    blog: {
+      title: "Soothing Relief with the Electric Heating Pad",
+      content:
+        "Relieve aches, cramps, and stiffness with the Electric Heating Pad. Featuring adjustable heat settings and a soft, washable cover, it's perfect for unwinding after a long day or targeting localized pain with consistent warmth.",
+    },
+  },
+  {
+    id: 20,
+    title: "Rotatable Garden Sprinkler",
+    excerpt: "Efficiently water your lawn or garden with 360° rotatable coverage...",
+    amazonLink: "https://amzn.to/3S0I4WE",
+    blog: {
+      title: "Effortless Lawn Care with the Rotatable Garden Sprinkler",
+      content:
+        "Keep your garden green and thriving with the Rotatable Garden Sprinkler. Designed for even water distribution, this sprinkler covers large areas and adjusts effortlessly, making plant care simple and effective.",
+    },
+  },
+  {
+    id: 21,
+    title: "SHARLOVY XL Chew Toy for Aggressive Chewers",
+    excerpt: "Durable and safe chew toy designed to satisfy even the most powerful chewers...",
+    amazonLink: "https://amzn.to/3YJDvDQ",
+    blog: {
+      title: "Ultimate Chew Toy for Tough Pups: SHARLOVY XL",
+      content:
+        "Give your dog the challenge it craves with the SHARLOVY XL Chew Toy. Engineered for aggressive chewers, this toy is made of non-toxic, tough rubber that promotes dental health and keeps your furry friend entertained for hours.",
+    },
+  },
 ];
